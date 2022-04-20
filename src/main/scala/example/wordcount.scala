@@ -27,6 +27,6 @@ object WordCount {
 
         val my_count = final_count.collect()
         my_count.foreach(println)
-        scala.io.StdIn.readLine()
+        //scala.io.StdIn.readLine()
     }
 }
